@@ -205,7 +205,9 @@ git log --al --decorate --oneline --graph
 
 
 
-![img](https://blog.kakaocdn.net/dn/dYgvmH/btrWg1B6a0L/HkC24hYXQd36K7FlTbU71K/img.jpg)![img](https://blog.kakaocdn.net/dn/b9ClaD/btrWggzpd01/APTOF9NynXws7jZlErGinK/img.jpg)
+![image](https://github.com/kbigdata0010/gitgit/assets/162410305/1c65d779-9162-4b0d-9eaa-1693df026855)
+![image](https://github.com/kbigdata0010/gitgit/assets/162410305/dbfe4849-ce80-4153-92c2-c3269c3e30f0)
+
 
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
