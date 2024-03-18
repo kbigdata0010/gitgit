@@ -232,7 +232,7 @@ git branch -d add-coach
 
 
 
-![img](https://blog.kakaocdn.net/dn/dYgvmH/btrWg1B6a0L/HkC24hYXQd36K7FlTbU71K/img.jpg)![img](https://blog.kakaocdn.net/dn/beuCaY/btrWedXuWgi/47vOlbOuY6ElhKxq9AqeeK/img.jpg)
+![img]("C:\Users\user\Pictures\Screenshots\스크린샷 2023-10-12 145218.png")![img](https://blog.kakaocdn.net/dn/beuCaY/btrWedXuWgi/47vOlbOuY6ElhKxq9AqeeK/img.jpg)
 
 
 
